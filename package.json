@@ -1,5 +1,5 @@
 {
-  "name": "npmtests",
+  "name": "npmtests000",
   "version": "0.0.1",
   "description": "learning how to create, publish and maintain npm modules",
   "main": "index.js",
