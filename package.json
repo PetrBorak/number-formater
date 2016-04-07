@@ -1,0 +1,27 @@
+{
+  "name": "npmtests",
+  "version": "0.0.1",
+  "description": "learning how to create, publish and maintain npm modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PetrBorak/number-formater.git"
+  },
+  "keywords": [
+    "tests",
+    "learning"
+  ],
+  "author": "Petr Borak <borakpetr@gmail.com> (http://www.borakpetr.cz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PetrBorak/number-formater/issues"
+  },
+  "homepage": "https://github.com/PetrBorak/number-formater",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
