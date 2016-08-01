@@ -6,6 +6,7 @@
   "scripts": {
     "test": "mocha --reporter spec",
     "cover": "istanbul cover node_modules/mocha/bin/_mocha -- --reporter spec"
+    "news": "new script added to invoke plan in the bamboo"
   },
   "repository": {
     "type": "git",
